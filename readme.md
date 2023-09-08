@@ -17,9 +17,9 @@
 		<sub>Check out my latest app</sub>
 		<br>
 		<h2>
-			<a href="https://www.producthunt.com/products/favorites-widget">Favorites Widget</a>
+			<a href="https://sindresorhus.com/camera-preview">Camera Preview</a>
 			<br>
-			<sup>Call your favorite people directly from the iPhone Lock Screen</sup>
+			<sup>Preview your Mac's webcam and take photos</sup>
 		</h2>
 	</div>
 	<br>
@@ -49,18 +49,6 @@
 		</a>
 		<br>
 		<br>
-		<a href="https://doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
-			<div>
-				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="230" alt="Doppler">
-			</div>
-			<b>All your environment variables, in one place</b>
-			<div>
-				<sub>Stop struggling with scattered API keys, hacking together home-brewed tools,</sub>
-				<br>
-				<sup>and avoiding access controls. Keep your team and servers in sync with Doppler.</sup>
-			</div>
-		</a>
-		<br>
 		<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
 			<div>
 				<img src="https://sindresorhus.com/assets/thanks/workos-logo-white-bg.svg" width="200" alt="WorkOS">
@@ -83,110 +71,30 @@
 			</div>
 		</a>
 		<br>
-		<a href="https://oss.capital">
+		<br>
+		<a href="https://serpapi.com#gh-light-mode-only">
 			<div>
-				<img src="https://sindresorhus.com/assets/thanks/oss-capital-logo-white-bg.svg" width="300" alt="OSS Capital">
+				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-light.svg" width="140" alt="SerpApi">
 			</div>
-			<div>
-				<sup><b>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</b></sup>
-			</div>
+			<b>API to get search engine results with ease.</b>
 		</a>
-		<br>
-		<br>
-		<a href="https://bit.io/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
+		<a href="https://serpapi.com#gh-dark-mode-only">
 			<div>
-				<img src="https://sindresorhus.com/assets/thanks/bitio-logo.svg" width="190" alt="bit.io">
+				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-dark.svg" width="140" alt="SerpApi">
 			</div>
-			<b>Instant, shareable cloud PostgreSQL database</b>
-			<div>
-				<sup>Import any dataset in seconds, share with anyone with a click, try without signing up</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<a href="https://www.gitpod.io/?utm_campaign=sindresorhus&utm_medium=referral&utm_content=awesome&utm_source=github">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/gitpod-logo-white-bg.svg" width="220" alt="Gitpod">
-			</div>
-			<b>Dev environments built for the cloud</b>
-			<div>
-				<sub>
-				Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev
-				<br>
-				environments for all your branches. As a result team members can instantly start coding with fresh dev environments
-				<br>
-				for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.
-				</sub>
-			</div>
+			<b>API to get search engine results with ease.</b>
 		</a>
 		<br>
 		<br>
 		<br>
-		<br>
-		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-light-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/stream-logo.svg" width="220" alt="Stream">
-			</div>
-			<br>
-			<div>
-				<b>Build Scalable Feeds & Chat Applications with Powerful APIs and Front End Components</b>
-			</div>
-		</a>
-		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-dark-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/stream-logo-dark.svg" width="220" alt="Stream">
-			</div>
-			<br>
-			<div>
-				<b>Build Scalable Feeds & Chat Applications with Powerful APIs and Front End Components</b>
-			</div>
+		<a href="https://transloadit.com?utm_source=sindresorhus&utm_medium=referral&utm_campaign=sponsorship&utm_content=awesome">
+			<picture>
+				<source width="340" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/transloadit-logo-dark.svg">
+				<source width="340" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/transloadit-logo.svg">
+				<img width="340" src="https://sindresorhus.com/assets/thanks/transloadit-logo.svg" alt="Transloadit logo">
+			</picture>
 		</a>
 		<br>
-		<br>
-		<br>
-		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-light-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/anvil-logo-light.svg" width="200" alt="Anvil">
-			</div>
-			<br>
-			<b>Paperwork that makes the data work.</b>
-			<div>
-				<sub>
-				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
-				<br>
-				The easiest way to build paperwork automation into your product.
-				</sub>
-			</div>
-		</a>
-		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-dark-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/anvil-logo-dark.svg" width="200" alt="Anvil">
-			</div>
-			<br>
-			<b>Paperwork that makes the data work.</b>
-			<div>
-				<sub>
-				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
-				<br>
-				The easiest way to build paperwork automation into your product.
-				</sub>
-			</div>
-		</a>
-		<br>
-		<br>
-		<br>
-		<a href="https://sizzy.co/?utm_campaign=github_repo&utm_source=github&utm_medium=referral&utm_content=awesome&utm_term=sindre">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/sizzy-logo.png" width="240" alt="Sizzy">
-			</div>
-			<div>
-				<sub>
-				<b>Before Sizzy:</b> web development is stressing you out, responsive design is hard, you have an overwhelming amount of opened tabs & apps.
-				<br>
-				<b>After Sizzy:</b> all the tools you need in one place, responsive design is a breeze, no more context switching.
-				</sub>
-			</div>
-		</a>
 		<br>
 		<br>
 	</p>
@@ -383,6 +291,7 @@
 - [Coq](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 - [V](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
 - [Zig](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [Move](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 
 ## Front-End Development
 
@@ -398,7 +307,7 @@
 - [React](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
 	- [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
 	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
-- [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
+- [Web Components](https://github.com/web-padawan/awesome-web-components#readme)
 - [Polymer](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
 - [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
@@ -465,6 +374,9 @@
 - [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
 - [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
 - [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
+- [Master CSS](https://github.com/master-co/awesome-master-css#readme) - A virtual CSS language with enhanced syntax.
+- [Hydrogen](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
+- [Tiny JS](https://github.com/thoughtspile/awesome-tiny-js#readme) - Frontend libraries that fit into 2 kB with dependencies.
 
 ## Back-End Development
 
@@ -537,6 +449,7 @@
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
 - [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 - [Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
+- [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
 
 ## Big Data
 
@@ -596,6 +509,7 @@
 - [Construct 2](https://github.com/ConstructCommunity/awesome-construct#readme) - Game engine.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
 - [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+- [ComputerCraft](https://github.com/tomodachi94/awesome-computercraft#readme) - Minecraft mod that adds programmable computers.
 - [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 - [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
 - [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
@@ -606,6 +520,10 @@
 - [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
 - [Esports](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
+- [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
+- [Game Engine Development](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
+- [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
+- [Game Production](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
 
 ## Development Environment
 
@@ -658,6 +576,7 @@
 - [TypeDB](https://github.com/vaticle/typedb-awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
 - [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 - [TDengine](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
+- [Supabase](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
 
 ## Media
 
@@ -685,12 +604,15 @@
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning#readme)
 - [Computer History](https://github.com/watson/awesome-computer-history#readme)
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
+- [STEAM](https://github.com/RahulBirCodes/awesome-steam#readme) - Supplements for specific science, technology, engineering, arts, and math (STEAM) courses across all grade levels.
 - [Educational Games](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
+- [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
+- [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
 
 ## Security
 
@@ -715,6 +637,9 @@
 - [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
 - [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) - Techniques that adversaries use to keep access to systems across restarts.
 - [EVM Security](https://github.com/kareniel/awesome-evm-security#readme) - Understanding the Ethereum Virtual Machine security ecosystem.
+- [Password Cracking](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
+- [Security Card Games](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
+- [Suricata](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
 
 ## Content Management Systems
 
@@ -740,6 +665,8 @@
 - [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
 - [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
 - [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects.
+- [ADS-B](https://github.com/rickstaa/awesome-adsb#readme) - Technology broadcasting aircraft's identity, position, and data periodically.
+- [Flying FPV](https://github.com/Matthias84/awesome-flying-fpv#readme) - Open hardware and software related to drones / UAVs.
 
 ## Business
 
@@ -755,6 +682,7 @@
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - How to transition from software development to engineering management.
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
+- [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
 
 ## Work
 
@@ -775,6 +703,7 @@
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
 - [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
 - [SNMP](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
+- [Scapy](https://github.com/secdev/awesome-scapy#readme) - Python-based interactive packet manipulation.
 
 ## Decentralized Systems
 
@@ -791,6 +720,8 @@
 - [Golem](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
 - [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 - [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
+- [ZeroNet](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
+- [Cosmos SDK](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
 
 ## Health and Social Science
 
@@ -803,6 +734,7 @@
 - [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - Open source projects that help improve society.
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
+- [Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
 
 ## Events
 
@@ -842,6 +774,7 @@
 - [Sketch](https://github.com/diessica/awesome-sketch#readme) - Design app for macOS.
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates#readme)
 - [Readme](https://github.com/matiassingers/awesome-readme#readme)
+- [GitHub Wiki](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - Comprehensive documentation on GitHub beyond README.
 - [Design and Development Guides](https://github.com/NARKOZ/guides#readme)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme)
 - [Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
@@ -939,13 +872,17 @@
 - [Translations](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 - [Scriptable](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
 - [WebXR](https://github.com/msub2/awesome-webxr#readme) - Enables immersive virtual reality and augmented reality content on the web.
+- [Computational Geometry](https://github.com/atkirtland/awesome-computational-geometry#readme) - Computational approaches for problems in geometry.
 - [OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap#readme) - An open data mapping project utilized by many apps and devices.
 - [Computational Biology](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
+- [Read the Docs](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
+- [Quarto](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
+- [ChatGPT](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
+- [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
 
 ## Related
 
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
-- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
